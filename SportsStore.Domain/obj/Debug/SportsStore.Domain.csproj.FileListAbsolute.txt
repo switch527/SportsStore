@@ -1,0 +1,24 @@
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Steve\Google Drive\Grad School\UIC\MS-MIS\IDS413\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\Steve\Desktop\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
